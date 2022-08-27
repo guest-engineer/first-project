@@ -1,4 +1,4 @@
-# ingoring the secundaary folders and files
+# si la carpeta se encuenrtra en el directorio raiz del proyecto esta es la forma correcta de ignorarlo
 /folder_nope
-# ignoring this file
+# si el  archivo se encuentra en el directorio raiz del proyecto esta es la forma correcta de ignorarlo
 /nope_file.ltx 
