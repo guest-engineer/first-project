@@ -1,5 +1,4 @@
 # ingoring the secundaary folders and files
-folder_nope/
+/folder_nope
 # ignoring this file
-*.ltx 
-
+/nope_file.ltx 
