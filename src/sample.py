@@ -6,7 +6,7 @@ import fastapi
 
 
 
-
+# Build an examples scripting in python for automatization...
 
 
 
